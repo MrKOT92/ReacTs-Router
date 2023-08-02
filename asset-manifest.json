@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%3CMrKOT92%3E.github.io/%3CReacTs-Router%3E,/static/css/main.1e9b7c00.css",
+    "main.js": "/%3CMrKOT92%3E.github.io/%3CReacTs-Router%3E,/static/js/main.6adaee00.js",
+    "static/js/787.28cb0dcd.chunk.js": "/%3CMrKOT92%3E.github.io/%3CReacTs-Router%3E,/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/%3CMrKOT92%3E.github.io/%3CReacTs-Router%3E,/index.html",
+    "main.1e9b7c00.css.map": "/%3CMrKOT92%3E.github.io/%3CReacTs-Router%3E,/static/css/main.1e9b7c00.css.map",
+    "main.6adaee00.js.map": "/%3CMrKOT92%3E.github.io/%3CReacTs-Router%3E,/static/js/main.6adaee00.js.map",
+    "787.28cb0dcd.chunk.js.map": "/%3CMrKOT92%3E.github.io/%3CReacTs-Router%3E,/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e9b7c00.css",
+    "static/js/main.6adaee00.js"
+  ]
+}
